@@ -1,0 +1,19 @@
+CompileFlags:
+  Add: [
+    "-I./../../Source/include",
+    "-I./../../Source/include",
+    "-I./../../Source/portable/GCC/ARM_CM3",
+    "-I./../../Demo/Common/include",
+    "-I./../../Demo/CORTEX_MPS2_QEMU_IAR_GCC",
+    "-I./../../Demo/CORTEX_MPS2_QEMU_IAR_GCC/CMSIS",
+    "-I./build/gcc",
+    "-nostartfiles",
+    "-ffreestanding",
+    "-mthumb",
+    "-Wall",
+    "-Wextra",
+    "-g3",
+    "-O0",
+    "-ffunction-sections",
+    "-fdata-sections",
+  ]

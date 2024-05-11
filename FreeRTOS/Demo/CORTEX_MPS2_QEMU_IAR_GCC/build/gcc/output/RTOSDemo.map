@@ -5466,20 +5466,20 @@ LOAD linker stubs
  .debug_line    0x00005b86      0x2dc ./output/startup_gcc.o
  .debug_line    0x00005e62      0x413 ./output/printf-stdarg.o
 
-.debug_str      0x00000000    0x1d364
- .debug_str     0x00000000    0x1d364 ./output/tasks.o
+.debug_str      0x00000000    0x1d312
+ .debug_str     0x00000000    0x1d312 ./output/tasks.o
                                0xdd3e (size before relaxing)
- .debug_str     0x0001d364     0xaa07 ./output/list.o
- .debug_str     0x0001d364     0xd3a1 ./output/queue.o
- .debug_str     0x0001d364     0xd5fa ./output/timers.o
- .debug_str     0x0001d364     0xc1e3 ./output/heap_4.o
- .debug_str     0x0001d364     0x93bd ./output/port.o
- .debug_str     0x0001d364     0xcf89 ./output/IntQueue.o
- .debug_str     0x0001d364    0x1234e ./output/IntQueueTimer.o
- .debug_str     0x0001d364     0xc5fe ./output/main.o
- .debug_str     0x0001d364     0xd3aa ./output/main_blinky.o
- .debug_str     0x0001d364     0x7602 ./output/startup_gcc.o
- .debug_str     0x0001d364     0x309a ./output/printf-stdarg.o
+ .debug_str     0x0001d312     0xaa07 ./output/list.o
+ .debug_str     0x0001d312     0xd3a1 ./output/queue.o
+ .debug_str     0x0001d312     0xd5fa ./output/timers.o
+ .debug_str     0x0001d312     0xc1e3 ./output/heap_4.o
+ .debug_str     0x0001d312     0x93bd ./output/port.o
+ .debug_str     0x0001d312     0xcf89 ./output/IntQueue.o
+ .debug_str     0x0001d312    0x1234e ./output/IntQueueTimer.o
+ .debug_str     0x0001d312     0xc5fe ./output/main.o
+ .debug_str     0x0001d312     0xd3aa ./output/main_blinky.o
+ .debug_str     0x0001d312     0x7602 ./output/startup_gcc.o
+ .debug_str     0x0001d312     0x309a ./output/printf-stdarg.o
 
 .comment        0x00000000       0x44
  .comment       0x00000000       0x44 ./output/tasks.o
