@@ -1,3 +1,6 @@
+/// My code replaces the original blinky demo, which can now
+/// be found in `demo_blinky.c`.
+
 /*
  * FreeRTOS V202212.01
  * Copyright (C) 2020 Amazon.com, Inc. or its affiliates.  All Rights Reserved.
