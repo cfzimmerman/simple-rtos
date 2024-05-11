@@ -5462,7 +5462,7 @@ LOAD linker stubs
  .debug_macro   0x000054a7       0x3e ./output/printf-stdarg.o
  .debug_macro   0x000054e5       0x58 ./output/printf-stdarg.o
 
-.debug_line     0x00000000     0x62a3
+.debug_line     0x00000000     0x62a1
  .debug_line    0x00000000     0x17ff ./output/tasks.o
  .debug_line    0x000017ff      0x48a ./output/list.o
  .debug_line    0x00001c89     0x13f7 ./output/queue.o
@@ -5471,10 +5471,10 @@ LOAD linker stubs
  .debug_line    0x0000410b      0x419 ./output/port.o
  .debug_line    0x00004524      0x95b ./output/IntQueue.o
  .debug_line    0x00004e7f      0x391 ./output/IntQueueTimer.o
- .debug_line    0x00005210      0x541 ./output/main.o
- .debug_line    0x00005751      0x463 ./output/main_blinky.o
- .debug_line    0x00005bb4      0x2dc ./output/startup_gcc.o
- .debug_line    0x00005e90      0x413 ./output/printf-stdarg.o
+ .debug_line    0x00005210      0x53f ./output/main.o
+ .debug_line    0x0000574f      0x463 ./output/main_blinky.o
+ .debug_line    0x00005bb2      0x2dc ./output/startup_gcc.o
+ .debug_line    0x00005e8e      0x413 ./output/printf-stdarg.o
 
 .debug_str      0x00000000    0x1d71f
  .debug_str     0x00000000    0x1d71f ./output/tasks.o
